@@ -42,10 +42,12 @@ The dataset used for this analysis contains:
 📷 **Top-Selling Categories** 🛍️
 📷 **Regional Sales Distribution** 🌍
 
-![Visualization](./path_to_your_image_2.png)
-(./path_to_your_image_2.png)(./path_to_your_image_2.png)
-(./path_to_your_image_2.png)(./path_to_your_image_2.png)
-
+## 📸 Visualizations
+![Visualization 1](https://github.com/anshuman-kar/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-03-16%20220718.png)
+![Visualization 2](https://github.com/anshuman-kar/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-03-16%20220732.png)
+![Visualization 3](https://github.com/anshuman-kar/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-03-16%20220749.png)
+![Visualization 4](https://github.com/anshuman-kar/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-03-16%20220808.png)
+![Visualization 5](https://github.com/anshuman-kar/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-03-16%20220826.png)
 
 
 Data Processing
